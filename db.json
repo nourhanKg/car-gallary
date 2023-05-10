@@ -1,0 +1,100 @@
+{
+  "cars": [
+    {
+      "image": "https://car-images.bauersecure.com/wp-images/2697/meganeelectric_100.jpeg",
+      "car_model": "Accord",
+      "car_model_year": "2023",
+      "car_vin": "WAULF78KX9A662699",
+      "color": "Blue",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "car_model": "S6",
+      "car_model_year": 2007,
+      "color": "Puce",
+      "car_vin": "WAULF78KX9A662599",
+      "image": "https://charge.cars/uploads/videos-cover/product-1.jpg"
+    },
+    {
+      "id": 3,
+      "car_model": "S-Type",
+      "car_model_year": 2008,
+      "color": "Green",
+      "car_vin": "4T1BF1FK2EU232827",
+      "image": "https://www.lotuscars.com/content/themes/lotus-consumer/assets/images/eletre/stills/P000198_S004_Eletre_PA_Ext_R34_Comp08_TH_FinalArt.jpg"
+    },
+    {
+      "id": 4,
+      "car_model": "Nubira",
+      "car_model_year": 2002,
+      "color": "Blue",
+      "car_vin": "WBA1J9C54FV383379",
+      "image": "https://car-images.bauersecure.com/wp-images/2697/meganeelectric_100.jpeg"
+    },
+    {
+      "id": 5,
+      "car_model": "Expedition EL",
+      "car_model_year": 2009,
+      "color": "Maroon",
+      "car_vin": "WBAVB13536K158226",
+      "image": "https://charge.cars/uploads/videos-cover/product-1.jpg"
+    },
+    {
+      "id": 6,
+      "car_model": "Savana 3500",
+      "car_model_year": 2006,
+      "color": "Turquoise",
+      "car_vin": "WAUCFAFC3FN880994",
+      "image": "https://content-images.carmax.com/qeontfmijmzv/MY19MKj0XutK084z874jt/9632621fd8464b5c0e54a9dee64ad4e5/tesla.jpg"
+    },
+    {
+      "id": 7,
+      "car_model": "DB9",
+      "car_model_year": 2010,
+      "color": "Goldenrod",
+      "car_vin": "WAUSGCFC0CN366939",
+      "image": "https://car-images.bauersecure.com/wp-images/2697/meganeelectric_100.jpeg"
+    },
+    {
+      "id": 8,
+      "car_model": "Gallardo",
+      "car_model_year": 2005,
+      "color": "Khaki",
+      "car_vin": "JTJHY7AX1D4843605",
+      "image": "https://content-images.carmax.com/qeontfmijmzv/MY19MKj0XutK084z874jt/9632621fd8464b5c0e54a9dee64ad4e5/tesla.jpg"
+    },
+    {
+      "id": 9,
+      "car_model": "Diablo",
+      "car_model_year": 1998,
+      "color": "Teal",
+      "car_vin": "1G6AJ5SX5F0085258",
+      "image": "https://content-images.carmax.com/qeontfmijmzv/MY19MKj0XutK084z874jt/9632621fd8464b5c0e54a9dee64ad4e5/tesla.jpg"
+    },
+    {
+      "id": 10,
+      "car_model": "Regal",
+      "car_model_year": 1990,
+      "color": "Red",
+      "car_vin": "2HNYD18233H762574",
+      "image": "https://www.lotuscars.com/content/themes/lotus-consumer/assets/images/eletre/stills/P000198_S004_Eletre_PA_Ext_R34_Comp08_TH_FinalArt.jpg"
+    },
+    {
+      "car_model": "Rendezvous",
+      "car_model_year": "2006",
+      "color": "Teal",
+      "car_vin": "1FTMF1EW3AK962962",
+      "image": "https://www.lotuscars.com/content/themes/lotus-consumer/assets/images/eletre/stills/P000198_S004_Eletre_PA_Ext_R34_Comp08_TH_FinalArt.jpg",
+      "id": 11
+    },
+    {
+      "car_model": "BMW",
+      "car_model_year": "2006",
+      "color": "Teal",
+      "car_vin": "1FTMF1EW3AK962962",
+      "image": "",
+      "id": 12
+    }
+  ]
+}
